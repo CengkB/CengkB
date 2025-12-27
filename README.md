@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CengkB
-- 👀 I’m interested in coding,football
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning java
 
 
